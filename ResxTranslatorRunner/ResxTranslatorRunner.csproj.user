@@ -12,6 +12,6 @@
     <ProjectView>ShowAllFiles</ProjectView>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
-    <StartArguments>-p c:\Code\DTML_Application\DTML\DTML.Resources</StartArguments>
+    <StartArguments>-p c:\Code\ResxManager\ResxTranslator\mvc-resx-autolocalizer\ResourceTranslatorUnitTests\TestFile\</StartArguments>
   </PropertyGroup>
 </Project>

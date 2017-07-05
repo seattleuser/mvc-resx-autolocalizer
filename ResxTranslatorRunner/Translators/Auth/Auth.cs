@@ -47,7 +47,7 @@ namespace ResxTranslatorRunner.Translators.Auth
         /// <param name="key">Subscription key to use to get an authentication token.</param>
         public AzureAuthToken()
         {
-            this.SubscriptionKey = System.Configuration.ConfigurationManager.AppSettings["AzureSecretKey"].ToString();
+            this.SubscriptionKey = System.Configuration.ConfigurationManager.AppSettings["AzureSecretKey"]?.ToString();
             this.RequestStatusCode = HttpStatusCode.InternalServerError;
         }
 

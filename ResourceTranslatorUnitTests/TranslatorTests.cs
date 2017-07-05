@@ -10,7 +10,7 @@ namespace ResourceTranslatorUnitTests
     [TestClass]
     public class TranslatorTests
     {
-        private string AzureTestKey = "2367bca345014dd6858c9421fbfefa10";
+        private string AzureTestKey = "{YOUR KEY}";
 
         [TestMethod]
         public void GetLanguagesTests()
@@ -56,5 +56,6 @@ namespace ResourceTranslatorUnitTests
             var lang = service.GetSupportedLanguages();
             Assert.IsTrue(lang.Any());
         }
+
     }
 }

@@ -142,6 +142,7 @@ namespace ResxTranslatorRunner.ResxManager
                 {
                     //Call to Azure failed, fallback to Google
                     selectedService = new GoogleTranslatorService();
+                    languages = selectedService.GetSupportedLanguages();
                 }
 
                 foreach (string file in files)
