@@ -1,0 +1,8 @@
+C:\Code\ResxManager\ResxTranslator\mvc-resx-autolocalizer\ResxTranslatorRunner\obj\Debug\ResxTranslatorRunner.csproj.CoreCompileInputs.cache
+C:\Code\ResxManager\ResxTranslator\mvc-resx-autolocalizer\ResxTranslatorRunner\obj\Debug\ResxTranslatorRunner.csprojResolveAssemblyReference.cache
+C:\Code\ResxManager\ResxTranslator\mvc-resx-autolocalizer\ResxTranslatorRunner\bin\Debug\ResxTranslatorRunner.exe.config
+C:\Code\ResxManager\ResxTranslator\mvc-resx-autolocalizer\ResxTranslatorRunner\bin\Debug\ResxTranslatorRunner.exe
+C:\Code\ResxManager\ResxTranslator\mvc-resx-autolocalizer\ResxTranslatorRunner\bin\Debug\ResxTranslatorRunner.pdb
+C:\Code\ResxManager\ResxTranslator\mvc-resx-autolocalizer\ResxTranslatorRunner\bin\Debug\Mono.Options.dll
+C:\Code\ResxManager\ResxTranslator\mvc-resx-autolocalizer\ResxTranslatorRunner\obj\Debug\ResxTranslatorRunner.exe
+C:\Code\ResxManager\ResxTranslator\mvc-resx-autolocalizer\ResxTranslatorRunner\obj\Debug\ResxTranslatorRunner.pdb
