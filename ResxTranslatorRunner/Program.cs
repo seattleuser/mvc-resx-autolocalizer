@@ -13,7 +13,7 @@ namespace ResxTranslatorRunner
 
             var p = new OptionSet() {
             { "p|path=", "the path to the folder with resource files", v => path = v },
-            { "m|mode=", "the execution mode: append or override existing stings. Helpful during incremental runs. In append mode only new strings will be localized", v => appendMode = "override" == v },
+            { "m|mode=", "the execution mode: If true will create resource files for all supported locales, if false will only localize into set of languages which already have .resx files", v => appendMode = "override" == v },
             { "h|help",  "show this message and exit", v => show_help = v != null }
             };
 
